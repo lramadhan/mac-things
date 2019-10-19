@@ -1,8 +1,8 @@
-#An Edited `Assets.car` for Hackintosh
+# An Edited `Assets.car` for Hackintosh
 
 # Overview
 
-###Dark mode example
+### Dark mode example
 
 ![Dark Mode](darkmode.png)
 
